@@ -1,5 +1,4 @@
 # pure_drivel
-Writing practice from writing prompts
+Writing practice
 
-Each entry will provide a writing prompt and then a short story for that prompt. (usually a page or 2 long)
-I'm sure most of them will suck, but who cares.
+I am currently doing the 'Write a Novel' course from Sa Writers College so some of the exercises I do will be posted here.
